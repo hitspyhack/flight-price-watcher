@@ -1,0 +1,12 @@
+# Secrets
+.env
+
+# Runtime state (price history, alert dedup)
+/data/
+
+# Logs
+*.log
+
+# Editor / OS
+.DS_Store
+.vscode/
